@@ -31,7 +31,7 @@
   <img
     align="left"
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Harshitmaratha&count_private=true&show_icons=true&custom_title=Sid's%20Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
+    src="https://github-readme-stats.vercel.app/api?username=harshitaanjna29&count_private=true&show_icons=true&custom_title=Sid's%20Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
        />
     <!-- #bg_COLOR - UPPER=ffffff00 000000 &text_color=FF7B32 -->
 
@@ -46,7 +46,7 @@
 
 <h2 align="left">Social Handles :</h2>
 <span padding="10px">
-<a href="www.linkedin.com/in/harshit-aanjna-490856175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn | Harshit" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/harshit-aanjna-490856175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn | Harshit" height="35" width="45" /></a>
 <a href="https://instagram.com/harshit_aanjna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | Harshit" height="40" width="45" /></a>
 <a href="https://www.hackerrank.com/harshit_Anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank | Harshit" height="40" width="45" /></a>
 
