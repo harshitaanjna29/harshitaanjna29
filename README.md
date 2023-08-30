@@ -38,7 +38,7 @@
   <img    
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
-       />
+       />
   
 </span>
 
